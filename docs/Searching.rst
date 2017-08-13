@@ -70,7 +70,7 @@ Features
 
     from pygorithm.searching import binary_search
 
-    # for printing the source code of bubble_sort
+    # for printing the source code of binary_search
     print(binary_search.get_code())
 
 
